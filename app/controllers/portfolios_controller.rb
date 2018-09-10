@@ -33,5 +33,5 @@ class PortfoliosController < ApplicationController
             format.html { render :edit }
           end
         end
-      end
+    end
 end
